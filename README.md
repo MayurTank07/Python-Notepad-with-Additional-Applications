@@ -31,7 +31,7 @@ Contributions are welcome! If you want to contribute to this project, feel free 
 <br>
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/MayurTank07/Python-Notepad-with-Additional-Applications/blob/main/LICENSE).
 <br>
 <br>
 
